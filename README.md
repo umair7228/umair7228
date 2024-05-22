@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm UMAIR 👋
 
-<!--
-**umair7228/umair7228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate self-taught programmer with a keen interest in Artificial Intelligence, Data Engineering, web development and emerging technologies. Here's a bit about me and what I'm currently working on.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Skills**: 
+  - HTML
+  - CSS
+  - Python
+  - Currently learning TypeScript
+
+- 📚 **Education**:
+  - Completed Python programming at Saylani Mass IT Training
+  - Currently enrolled in the Governor Sindh Initiative for GenAI, Web3, and Metaverse & Saylani Mass IT Trining (SMIT) for Data Engineering
+
+- 🛠️ **Projects**:
+  - Created a basic clone of Amazon using HTML and CSS. This project helped me understand the fundamentals of front-end development and build a responsive web design.
+  - Solved various practice scenarios in Python, Numpy, Matplotlib and pandas, which enhanced my problem-solving skills and deepened my understanding of the language.
+
+## Projects
+
+### Amazon Clone
+A basic clone of Amazon built using HTML and CSS.
+- View Project: https://github.com/umair7228/Amazon-Clone
+
+## Currently Learning
+
+- TypeScript at the Governor Sindh Initiative for GenAI, Web3, and Metaverse & Data Engineering at Saylani Mass IT Training
+
+## Connect with Me
+
+- LinkedIn: www.linkedin.com/in/umair-nawaz-92b8472a1
+
+I'm always open to feedback and new opportunities. Feel free to reach out and connect!
+
+Thanks for stopping by!
+
+![Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
