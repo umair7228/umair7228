@@ -35,7 +35,3 @@ A basic clone of Amazon built using HTML and CSS.
 I'm always open to feedback and new opportunities. Feel free to reach out and connect!
 
 Thanks for stopping by!
-
-![Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-
