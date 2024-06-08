@@ -7,22 +7,47 @@ Welcome to my GitHub profile! I'm a passionate self-taught programmer with a kee
 - 💻 **Skills**: 
   - HTML
   - CSS
-  - Python
+  - Python | Numpy | Matplotlib | Pandas
   - Currently learning TypeScript
 
 - 📚 **Education**:
   - Completed Python programming at Saylani Mass IT Training
   - Currently enrolled in the Governor Sindh Initiative for GenAI, Web3, and Metaverse & Saylani Mass IT Trining (SMIT) for Data Engineering
 
-- 🛠️ **Projects**:
-  - Created a basic clone of Amazon using HTML and CSS. This project helped me understand the fundamentals of front-end development and build a responsive web design.
-  - Solved various practice scenarios in Python, Numpy, Matplotlib and pandas, which enhanced my problem-solving skills and deepened my understanding of the language.
+- ## 🛠️ Projects:
+  - ### 🔹 ETL Project:
+    - **Technologies Used:** Python, BeautifulSoup, Pandas, SQLite
+    - **Description:** Completed an ETL (Extract, Transform, Load) project where I:
+      - Extracted data from a web source using BeautifulSoup.
+      - Transformed the data by adding exchange rate conversions.
+      - Loaded the cleaned and transformed data into a CSV file and an SQLite database.
+      - Executed SQL queries to analyze the data.
 
-## Projects
+  - ### 🔹 Basic Frontend Clone of Amazon:
 
+    - **Technologies Used:** HTML, CSS
+    - **Description:** Created a basic frontend clone of Amazon, which helped me understand the fundamentals of front-end development and build a responsive web design.
+    
+  - ### 🔹 Python, Numpy, Matplotlib, and Pandas Projects:
+
+    - **Technologies Used:** Python, Numpy, Matplotlib, Pandas
+    - **Description:** Solved various projects like (Analyzing and Visualizing Monthly Expenses, Analyzing and Visualizing Sales Data, Analyzing_retail_salse_data), which enhanced my problem-solving skills and deepened my understanding of the language.
+
+## Projects Link
+
+### ETL With Python
+ETL(Extract, Transform, Load) Project.
+- View Project: https://github.com/umair7228/ETL-Python-Project
 ### Amazon Clone
-A basic clone of Amazon built using HTML and CSS.
+A basic clone of Amazon.
 - View Project: https://github.com/umair7228/Amazon-Clone
+
+###  Python, Numpy, Matplotlib, and Pandas Projects:
+- **Projects**
+  - Analyzing and Visualizing Monthly Expenses
+  - Analyzing and Visualizing Sales Data
+  - Analyzing_retail_salse_data
+- View Projects: https://github.com/umair7228/Cloud-Data-Engineering/tree/main/Explorartory_Data_Analysis/pandas%20practice%20scenario
 
 ## Currently Learning
 
