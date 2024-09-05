@@ -6,13 +6,15 @@ Welcome to my GitHub profile! I'm a passionate self-taught programmer with a kee
 
 - 💻 **Skills**: 
   - HTML
-  - CSS
+  - CSS with Tailwind CSS
   - Python | Numpy | Matplotlib | Pandas
-  - Currently learning TypeScript
+  - SQL
+  - TypeScript
+  - Currently Learning Next.js
 
 - 📚 **Education**:
-  - Completed Python programming at Saylani Mass IT Training
-  - Currently enrolled in the Governor Sindh Initiative for GenAI, Web3, and Metaverse & Saylani Mass IT Trining (SMIT) for Data Engineering
+  - Completed Python programming and SQL at Saylani Mass IT Training
+  - Currently enrolled in the Governor Sindh Initiative for GenAI, Web3, and Metaverse & Saylani Mass IT Trining (SMIT) for Cloud Data Engineering
 
 - ## 🛠️ Projects:
   - ### 🔹 ETL Project:
