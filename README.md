@@ -1,195 +1,41 @@
-# 👋 Welcome to My GitHub!
+<div align="center">
+  <a href="https://gitroll.io/profile/u15a1BAMUEXfzPf2DJj3XjSJ0ZZj2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u15a1BAMUEXfzPf2DJj3XjSJ0ZZj2" alt="GitRoll Profile Badge"/></a>
+</div>
 
-I'm **Umair**, a dedicated **Cloud Data Engineering** and **Cloud Applied Generative AI Engineering** student, actively building projects in cloud, AI, and web development. Here you can explore my journey through code and technology.
+# UMAIR
+**Skilled Cloud Data Engineer** with a track record of creating impactful solutions across data engineering and cloud technologies. Experienced in data pipelining, cloud architecture, and data management, with expertise in bridging the technical and business dimensions of data. Proficient in data engineering tools such as AWS, Snowflake, and SQL Server, with a passion for integrating new technologies into business processes to drive efficiency and scalability.
 
----
+![My GitHub Banner](https://github.com/umair7228/umair7228/blob/main/de-banner.jpeg)
+## 🛠️ 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:
+- **𝗖𝗹𝗼𝘂𝗱 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀:** Amazon Web Services (AWS)
+- **𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗧𝗼𝗼𝗹𝘀:** Snowflake, Apache Airflow, Apache Kafka
+- **𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 & 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀:** Python, SQL
+- **𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js
+- **𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻:** NumPy, Pandas, Matplotlib, BeautifulSoup, Selenium
+- **𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀:** Tailwind CSS, Framer Motion, Shadcn UI
 
-## 🚀 **Projects**
-
-### 🌩️ Cloud & Data Engineering
-1. **[Cloud Data Engineering](https://github.com/umair7228/Cloud-Data-Engineering)**  
-   🔧 **Technologies**: ![Snowflake](https://img.shields.io/badge/-Snowflake-blue?logo=snowflake&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-green?logo=sqlite&logoColor=white)  
-   Explore my hands-on work in Cloud Data Engineering, covering ETL processes, data modeling, and querying.
-
-2. **[ETL Python Project](https://github.com/umair7228/ETL-Python-Project)**  
-   🔧 **Technologies**: ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)  
-   Building an ETL pipeline to handle large-scale data processing efficiently.
-
-3. **[T-SQL](https://github.com/umair7228/T-SQL)**  
-   🔧 **Technologies**: ![T-SQL](https://img.shields.io/badge/-T--SQL-blue?logo=microsoft-sql-server&logoColor=white)  
-   Advanced querying techniques using T-SQL, focusing on optimization and performance.
-
----
-
-### 📊 Data Analysis & Exploratory Projects
-4. **[Exploratory Data Analysis](https://github.com/umair7228/Explorartory_Data_Analysis)**  
-   🔧 **Technologies**: ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-blue?logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-9cf?logo=python&logoColor=white)  
-   A collection of EDA projects using Python to analyze datasets and visualize trends.
-
-5. **[Data Analysis Mini Projects](https://github.com/umair7228/Data-Analysis-Mini-Projects)**  
-   🔧 **Technologies**: ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-green?logo=sqlite&logoColor=white)  
-   Data insights from various datasets using SQL and Python.
-
-6. **[E-Commerce Sales Analysis](https://github.com/umair7228/E-Commerce-Sales-Analysis)**  
-   🔧 **Technologies**: ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)  
-   Analyzing e-commerce sales trends and identifying key business insights.
+## 📜 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬:
+- Data Engineering in Python (DataCamp)
+- Associate Data Engineer in SQL (DataCamp)
+- Data Engineering (Snowflake)
+- Data Lake (Snowflake)
+- Data Wearhousing (Snowflake)
 
 ---
 
-### 💻 Web Development & Frontend
-7. **[React To-Do List](https://github.com/umair7228/react-todolist)**  
-   🔧 **Technologies**: ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)  
-   A functional and clean to-do list app built with React and Next.js.
+### 🎢 GitHub Fun Zone:
 
-8. **[Editable Resume Builder](https://github.com/umair7228/editable-resume-builder)**  
-   🔧 **Technologies**: ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)  
-   Create, edit, and export your resume in real-time with this interactive app.
-
-9. **[Amazon Clone](https://github.com/umair7228/Amazon-Clone)**  
-   🔧 **Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)  
-   A pixel-perfect clone of Amazon's website, showcasing advanced HTML/CSS skills.
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=umair7228&show_icons=true&bg_color=0D1117&title_color=00AFFF&text_color=FFFFFF&icon_color=00F0FF&hide_border=true" height="180px"/></a>
+  <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair7228&layout=compact&bg_color=0D1117&title_color=00AFFF&text_color=FFFFFF&hide_border=true" height="180px"/></a>
+ <a href="#"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=umair7228&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" height="180px"/></a>
+</div>
 
 ---
 
-### 🛠️ Other Notable Projects
-10. **[TypeScript 45 Question Assignment](https://github.com/umair7228/TypeScript-45-Question-Assignment)**  
-    🔧 **Technologies**: ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)  
-    A comprehensive collection of TypeScript questions and solutions.
-
-11. **[JavaScript](https://github.com/umair7228/Javascript)**  
-    🔧 **Technologies**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)  
-    Core JavaScript exercises and projects.
-
-12. **[CSS](https://github.com/umair7228/CSS)**  
-    🔧 **Technologies**: ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)  
-    Advanced CSS designs and layouts.
-
-13. **[HTML](https://github.com/umair7228/HTML)**  
-    🔧 **Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)  
-    HTML templates and interactive forms.
-
----
-
-## 🖥️ **Portfolio Website**
-
-💼 **Check out my personal portfolio website:** [**Umair's Portfolio**](https://github.com/umair7228/umair-portfolio-web)  
-A responsive, professional portfolio showcasing my skills and projects in web development, cloud engineering, and data analysis.
-
----
-
-## 🛠️ **Skills & Technologies**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="JavaScript"  width="48" height="48" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"  alt="TypeScript"  width="48" height="48" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"  alt="Python"  width="48" height="48" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  alt="React"  width="48" height="48" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"  alt="Next"  width="48" height="48" />
-      </a>
-      <br>Next
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="48" height="48" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="48" height="48" />
-      </a>
-      <br>Snowflake
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" />
-      </a>
-      <br>AWS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
-      </a>
-      <br>Git
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="50" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="48" height="48" />
-      </a>
-      <br>Vercel
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="48" height="48" />
-      </a>
-      <br>Discord
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
-      </a>
-      <br>Canva
-    </td>
-  </tr>
-</table>
-
----
-
-## 📜 **Certifications**
-
-I hold **27 certifications** in areas including Cloud Computing, Data Engineering, and Frontend Development.  
-👉 View them in my **[Certifications Repository](https://github.com/umair7228/umair-certifications)**.
-
-Some key certifications:
-- **Associate Data Engineer in SQL** (DataCamp)
-- **Data Engineering** (Snowflake)
-
----
-
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umair7228&show_icons=true&theme=radical" alt="Umair's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair7228&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 **Let's Connect**
-
-Let's collaborate, discuss ideas, or work on exciting projects together.  
-Find me on:
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairnawaz7228/)
+#### 🌍 Let's Connect:
+<div align="center">
+    <a href="https://umair-portfolio-web.vercel.app"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="Website"></a>
+    <a href="mailto:umairnawaz7228@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00AFFF" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/umairnawaz7228"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=004080" alt="LinkedIn"></a>
+</div>
